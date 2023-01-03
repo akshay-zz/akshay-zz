@@ -1,16 +1,32 @@
-### Hi there 👋
+<!-- [<img src=".\images\3.jpg" width="800" height="250"/>](.\images\1.jpg) -->
+# Hi there, I'm Akshay 👋
 
-<!--
-**akshay-zz/akshay-zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer who loves to solve problems.
 
-Here are some ideas to get you started:
+```
+name: Akshay Kumar
+located_in: Bangalore, India
+from: Ranchi (India)
+job: Senior Software Developer (Tavant)
+education: ["Bachelor's in Computer Science"]
+past experiences: 
+  - ["Senior Software Developer", "Talent Recruit Pvt. Ltd", "Bangalore", "Aug 2019- Dec 2021"]
+  - ["Software Developer", "Testpress Pvt. Ltd", "Chennai", "Oct 2018- July 2019"]
+  - ["Software Developer", "Infinity Infoway Pvt. Ltd.", "Rajkot, India", "Feb 2017- Aug 2018]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests: ["Web development", "Microservices", "Unit Testing", "Cloud"]
+currently_learning: ["Dapr", "Tye"]
+will_learn: ["Web3"]
+hobbies: ["Bike ride", "Chess", "Listing Music"]
+```
+
+- 💬 Ask anything!
+- 📫 How to reach me:
+
+    | [Linkedin](https://www.linkedin.com/in/akshay-kumar-707b11130/) | [Twitter](https://twitter.com/akshay_zz) | [Instagram](https://www.instagram.com/akshay_zz/) |
+    | -- | -- | -- |
+
+---
+
+| ![Akshay's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-zz&layout=compact&theme=radical) | ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay-zz&show_icons=true&theme=dracula) | |
+| -- | -- | -- |
