@@ -8,7 +8,7 @@ name: Akshay Kumar
 located_in: Bangalore, India
 from: Ranchi (India)
 job: Senior Software Developer (Tavant)
-education: ["Bachelor's in Computer Science"]
+education: ["Bachelors in Technology"]
 past experiences: 
   - ["Senior Software Developer", "Talent Recruit Pvt. Ltd", "Bangalore", "Aug 2019- Dec 2021"]
   - ["Software Developer", "Testpress Pvt. Ltd", "Chennai", "Oct 2018- July 2019"]
