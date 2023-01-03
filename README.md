@@ -32,4 +32,4 @@ hobbies: ["Bike ride", "Chess", "Listing Music"]
 | -- | -- | -- |
 
 <!-- Keep this line at last -->
-🚀 Some of my main projects
+👇 Some of my main projects
