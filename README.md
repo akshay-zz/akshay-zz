@@ -15,8 +15,6 @@ past experiences:
   - ["Software Developer", "Infinity Infoway Pvt. Ltd.", "Rajkot, India", "Feb 2017- Aug 2018]
 
 fields_of_interests: ["Web development", "Microservices", "Unit Testing", "Cloud"]
-currently_learning: ["Dapr", "Tye"]
-will_learn: ["Web3"]
 hobbies: ["Bike ride", "Chess", "Listing Music"]
 ```
 
